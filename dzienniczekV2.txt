@@ -1,0 +1,86 @@
+DZIEŃ		OPIS								ILOŚĆ GODZIN
+01.10.2024	Zapoznanie się z zasadami BHP, przeciwpożarowymi		8 h
+		oraz sanitarnymi. Omówienie programu nauczania.
+
+02.10.2024	Próba zainstalowania sterwonika sieciowego dla wirtualnego	8 h
+		komputera na obecnym systemie. Konfiguracja wirtualnej		
+		maszyny ze starszą, kompatybilną wersją systemu operacyjnego.
+
+03.10.2024	Skonfigurowano VirtualBox do przesyłania plików między		8 h
+		komputerem a maszyną wirtualną. Pojawił się problem z
+		połączeniem emulatora Windows Mobile 6 z internetem –
+		udało się je nawiązać, lecz nie można było połączyć się z
+		działającym w sieci API. Podjęto próby rozwiązania problemu.
+
+04.10.2024	Dalsza próba konfiguracji emulatora. Instalacja oraz 		8 h
+		konfiguracja Android Studio. Stworzenie aplikacji android
+		która wyświetla dane przechwycone z API. Zapoznanie się
+		z dokumentacją nowego palmtopa.
+
+07.10.2024	Stworzenie wstępnego wyglądu aplikacji w Figmie, a także	8 h
+		modelu bazy danych. Rozpoczęcie prac nad API.
+
+08.10.2024	Zaprojektowanie wstępnego zakresu obsługi API. Stworzenie	8 h
+		tymczasowego szkieletu API do tymczasowego użycia przy
+		tworzeniu aplikacji. Rozpoczęcie pracy nad właściwym API
+		na stworzonej bazie danych. 
+
+09.10.2024	Skonfigurowanie połączenia aplikacji z nowym API. Nadanie	8 h
+		zezwoleń, potrzebnych do komunikacji przez http. Wyświetlanie
+		danych zamówienia na podstawie zeskanowanego kodu EAN.
+
+10.10.2024	Dodanie listy zamówień, jest ona automatycznie pobierana z API.	8 h
+		Zaimplementowanie ikony aplikacji. Dalsze prace nad aplikacją.
+
+11.10.2024	Dodanie opcji wyboru zamówienia ze spinnera. Po wybraniu	8 h
+		zamówienia wyświetla się odpowiednia zawartość zamówienia.
+		
+14.10.2024	Tabela z towarami wyświetla się poprawnie. Tabelę można		8 h
+		filtrować względem przypisanego zamówienia. Dostosowano
+		wyszukiwanie po EAN oraz dodano komunikat dla wyjątku
+		gdy produkt jest w większej liczbie zamówień.
+		
+15.10.2024	Poprawa zapytania aktualizującego w API oraz obsługi		8 h
+		aktualizacji w aplikacji. Dodanie funkcji kontrolującej
+		zgodność zebranych przedmiotów z zapotrzebowaniem.
+
+16.10.2024	Dostosowanie API do nowych wymagań. Poprawa logiki wyświetlania	8 h
+		produktów. Rozpoczęcie pracy nad wyglądem interfejsu.
+
+17.10.2024	Dalsze prace nad wyglądem aplikacji. Zaprojektowanie palety	8 h
+		barw dla interfejsu.
+		
+18.10.2024	Dodawanie i aktualizowanie rekordów dla zmian w API. Testowanie	8 h
+		nowych funkcjonalności, naprawa błędów.
+
+21.10.2024	Wyłączenie klawiatury przy skanowaniu, poprawa focusu.		8 h
+		Wdrożenie obsługi skanera w zamówieniach. Aktualizacja ikony
+		aplikacji oraz mechanizmu zbierania towarów. Testowanie funkcji
+		przejścia między zamówieniami.
+
+22.10.2024	Wdrożenie trybu ogólnego z odpowiednią filtracją zamówień.	8 h
+		Dodanie trybu dowolnego oraz poprawa interfejsu aktualizacji.
+		Wprowadzenie opcji poprawiania ilości zebranej przez
+		użytkownika.
+
+23.10.2024	Zmiana działania aktualizacji ilości zebranego towaru według	8 h
+		zaleceń szefa. Zaprojektowanie API dla trybu ogólnego.
+		Potrzebne zmiany w wyglądzie monitu aktualizacji.
+
+24.10.2024	Poprawa trybu ogólnego: optymalizacja tabel, zmiana kolorystyki 8 h
+		wierszy w celu zwiększenia czytelności. Dalsza modyfikacja
+		filtracji tabel, w tym usprawnienie widoku dla użytkownika
+		i wprowadzenie drobnych poprawek wizualnych.
+
+25.10.2024 	Konfiguracja kodu do przechwytywania broadcastu skanera w 	8 h
+		celu wykorzystania go w funkcjach aplikacji. Dalsze prace nad
+		interfejsem użytkownika oraz doskonalenie API.
+		
+28.10.2024	Udoskonalenie przechwytywania brodcastu oraz poprawne 		8 h
+		przekazwyanie kodu do funkcji processEAN. Kontynuowanie prac
+		nad interfejsem użytwkonika. Stworzenie pierwszego algorytmu
+		tworzącego odpowiednie rekordy do tabeli zbieracz.
+
+29.10.2024	Rozwiązanie problemu z wyświetlaniem się nagłówka tabeli.	8 h
+		Dalsza praca nad refraktoryzacją kodu. Praca nad zmianami w 
+		wyglądzie interfejsu.
