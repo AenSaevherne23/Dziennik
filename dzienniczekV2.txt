@@ -1,16 +1,16 @@
 DZIEŃ		OPIS								ILOŚĆ GODZIN
 01.10.2024	Zapoznanie się z zasadami BHP, przeciwpożarowymi		8 h
-		oraz sanitarnymi. Omówienie programu nauczania.
+		oraz sanitarnymi. Omówienie programu praktyk.
 
 02.10.2024	Próba zainstalowania sterwonika sieciowego dla wirtualnego	8 h
 		komputera na obecnym systemie. Konfiguracja wirtualnej		
 		maszyny ze starszą, kompatybilną wersją systemu operacyjnego.
 
-03.10.2024	Skonfigurowano VirtualBox do przesyłania plików między		8 h
-		komputerem a maszyną wirtualną. Pojawił się problem z
+03.10.2024	Skonfigurowanie VirtualBox do przesyłania plików między		8 h
+		komputerem a maszyną wirtualną. Pojawienie się problemu z
 		połączeniem emulatora Windows Mobile 6 z internetem –
 		udało się je nawiązać, lecz nie można było połączyć się z
-		działającym w sieci API. Podjęto próby rozwiązania problemu.
+		działającym w sieci API. Podjęcie prób rozwiązania problemu.
 
 04.10.2024	Dalsza próba konfiguracji emulatora. Instalacja oraz 		8 h
 		konfiguracja Android Studio. Stworzenie aplikacji android
@@ -30,14 +30,14 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		danych zamówienia na podstawie zeskanowanego kodu EAN.
 
 10.10.2024	Dodanie listy zamówień, jest ona automatycznie pobierana z API.	8 h
-		Zaimplementowanie ikony aplikacji. Dalsze prace nad aplikacją.
+		Zaimplementowanie ikony aplikacji.
 
 11.10.2024	Dodanie opcji wyboru zamówienia ze spinnera. Po wybraniu	8 h
 		zamówienia wyświetla się odpowiednia zawartość zamówienia.
 		
 14.10.2024	Tabela z towarami wyświetla się poprawnie. Tabelę można		8 h
-		filtrować względem przypisanego zamówienia. Dostosowano
-		wyszukiwanie po EAN oraz dodano komunikat dla wyjątku
+		filtrować względem przypisanego zamówienia. Dostosowanie
+		wyszukiwania po EAN oraz dodanie komunikatu dla wyjątku,
 		gdy produkt jest w większej liczbie zamówień.
 		
 15.10.2024	Poprawa zapytania aktualizującego w API oraz obsługi		8 h
@@ -65,7 +65,7 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 
 23.10.2024	Zmiana działania aktualizacji ilości zebranego towaru według	8 h
 		zaleceń szefa. Zaprojektowanie API dla trybu ogólnego.
-		Potrzebne zmiany w wyglądzie monitu aktualizacji.
+		Wprowadzenie potrzebnych zmian w wyglądzie monitu aktualizacji.
 
 24.10.2024	Poprawa trybu ogólnego: optymalizacja tabel, zmiana kolorystyki 8 h
 		wierszy w celu zwiększenia czytelności. Dalsza modyfikacja
@@ -84,3 +84,13 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 29.10.2024	Rozwiązanie problemu z wyświetlaniem się nagłówka tabeli.	8 h
 		Dalsza praca nad refraktoryzacją kodu. Praca nad zmianami w 
 		wyglądzie interfejsu.
+
+30.10.2024	Poprawa wyglądu headerów tabeli z towarami do zebrania dla	8 h
+		wszystkich trybów pracy aplikacji. Odseparowywanie niektórych
+ 		funkcjonalności do osobnych plików.
+
+31.10.2024	Testowanie działania skanera we wszystkich trybach aplikacji.	8 h
+		Dalsze prace nad dopracowaniem wyglądu interfejsu.
+
+ŁĄCZNA ILOŚĆ GODZIN W PAŹDZIERNIKU: 184 h
+		
