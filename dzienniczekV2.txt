@@ -94,3 +94,6 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 
 ŁĄCZNA ILOŚĆ GODZIN W PAŹDZIERNIKU: 184 h
 		
+04.11.2024	Refraktoryzacja kodu, podział na klasę dla UI. Zmiany w bazie	8 h
+		danych według zaleceń. Poprawa wyświetlania komunikatów z
+		błędami.
