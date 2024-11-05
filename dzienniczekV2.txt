@@ -97,3 +97,7 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 04.11.2024	Refraktoryzacja kodu, podział na klasę dla UI. Zmiany w bazie	8 h
 		danych według zaleceń. Poprawa wyświetlania komunikatów z
 		błędami.
+
+05.11.2024	Dodanie i przetestowanie obsługi skanowania pudełek z		8 h
+		produktami. Stworzenie trybu ciemnego, praca nad stylami,
+		przeprojktowanie kolorystyki.
