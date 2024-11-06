@@ -101,3 +101,7 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 05.11.2024	Dodanie i przetestowanie obsługi skanowania pudełek z		8 h
 		produktami. Stworzenie trybu ciemnego, praca nad stylami,
 		przeprojktowanie kolorystyki.
+
+06.11.2024	Zaktualizowanie trybu ogólnego dla zbierania pudełek. 		8 h
+		Udoskonalenie sortowania dla trybu zamówień i dowolnego.
+		Dalsza praca nad błędami.
