@@ -105,3 +105,8 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 06.11.2024	Zaktualizowanie trybu ogólnego dla zbierania pudełek. 		8 h
 		Udoskonalenie sortowania dla trybu zamówień i dowolnego.
 		Dalsza praca nad błędami.
+
+07.11.2024	Poprawienie działania trybu ogólnego w przypadku próby		8 h
+		zebrania towaru, który jest w jakimś zamówieniu. Kolumna 
+		st_export zawsze pozostaje z wartością 0, gdy ilość do zebrania
+		jest NULL-em.
