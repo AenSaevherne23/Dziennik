@@ -110,3 +110,7 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		zebrania towaru, który jest w jakimś zamówieniu. Kolumna 
 		st_export zawsze pozostaje z wartością 0, gdy ilość do zebrania
 		jest NULL-em.
+
+08.11.2024	Poprawa API dla poprawnego dodawania oraz aktualizowania w
+		trybie ogólnym uwzględniając sposób dodawania przez opakowanie
+		i kod produktu.
