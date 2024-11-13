@@ -111,6 +111,15 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		st_export zawsze pozostaje z wartością 0, gdy ilość do zebrania
 		jest NULL-em.
 
-08.11.2024	Poprawa API dla poprawnego dodawania oraz aktualizowania w
+08.11.2024	Poprawa API dla poprawnego dodawania oraz aktualizowania w	8 h
 		trybie ogólnym uwzględniając sposób dodawania przez opakowanie
 		i kod produktu.
+
+12.11.2024	Praca nad wyglądem i funkcjonalnością dialogów. Poprawione	8 h
+		komunikaty błędów. Poprawne przechodzenie do zamówienia z trybu
+		ogólnego.
+
+13.11.2024	Poprawa automatyzacji dodawania w trybie zamówień. Naprawa	8 h
+		błędu nakładania się dialogów przy wielokrotnym skanowaniu.
+		Rozpoczęcie pracy nad nową aplikacją.
+
