@@ -123,3 +123,14 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		błędu nakładania się dialogów przy wielokrotnym skanowaniu.
 		Rozpoczęcie pracy nad nową aplikacją.
 
+14.11.2024	Zapoznanie się z bazową aplikacją do której będziemy twrozyć	8 h
+		aplikacje. Analiza problemu w praktyce.
+
+15.11.2024	Zaprojektowanie wstępnego szablonu projektu. Praca nad		8 h
+		rozmeiszczeniem funkcjonalności.
+
+18.11.2024	Zapoznanie się z potrzebnymi bibliotekami WebSocket. Ustalenie	8 h
+		środowisk projektowych.
+
+19.11.2024	Utworzenie repozytorium projektu. Podział pracy i wstępne próby 8 h
+		mapowania funkcjonalności witryny.
