@@ -134,3 +134,25 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 
 19.11.2024	Utworzenie repozytorium projektu. Podział pracy i wstępne próby 8 h
 		mapowania funkcjonalności witryny.
+
+20.11.2024	Porzucenie nowego projektu na rzecz dalszej pracy i zmian	8 h
+		w poprzednim. Poprawa działania wyświetlania zamówienia po
+		przechodzeniu do innych trybów poprzez przeskanowanie kodu
+		opakowania.
+
+21.11.2024	Poprawa działania trybu ogólnego przy dużych zbiorach danych.	8 h
+		Dalsze poprawki w obsłudze wyjątków w API dotyczących błędnych
+		kodów opakowań.
+
+22.11.2024	Ulepszenie funkcjonalności sortowania zamówień w trybie		8 h
+		dowolnym. Poprawa trybu ciemnego, lepszy kontrast oraz
+		dostosowanie do potrzeb użytkowników.
+
+25.11.2024	Poprawa wyświetlania wyboru zamówienia, wyświetlamy nazwę	8 h
+		kontrahenta oraz datę zamówienia. Praca nad odświeżaniem
+		widoku z poziomu aplikacji.
+
+26.11.2024	Poprawa akceptacji dialogów poprzez enter z klawiatury. 	8 h
+		Dodanie odświeżania widoku. Powiązanie tabel w API dla
+		zwiększenia integralności aplikacji.
+		z poziomu aplikacji.
