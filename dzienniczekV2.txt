@@ -156,3 +156,15 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		Dodanie odświeżania widoku. Powiązanie tabel w API dla
 		zwiększenia integralności aplikacji.
 		z poziomu aplikacji.
+
+27.11.2024	Dodano opcję czyszczenia pola wyszukiwania za pomocą przycisku	8 h
+		„X” oraz wprowadzono przycisk odświeżania widoku.
+		Przeprowadzono również poprawki dotyczące aktualizacji ilości
+		zebranych sztuk, co zwiększa czytelność interfejsu.
+
+28.11.2024	Blokowanie wielu dialogów i odświeżania w sytuacjach		8 h
+		konfliktowych. Wprowadzono obsługę błędów związanych z
+		połączeniem z API oraz ulepszono wyświetlanie informacji o
+		ilości sztuk do zebrania. Dodatkowo umożliwiono wprowadzanie
+		wartości ujemnych i poprawiono obsługę kodów wagowych oraz
+		sztukowych
