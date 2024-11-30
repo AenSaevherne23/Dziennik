@@ -167,4 +167,11 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		połączeniem z API oraz ulepszono wyświetlanie informacji o
 		ilości sztuk do zebrania. Dodatkowo umożliwiono wprowadzanie
 		wartości ujemnych i poprawiono obsługę kodów wagowych oraz
-		sztukowych
+		sztukowych.
+
+29.11.2024	Napotkanie problemu z niewyświetlaniem się dialogu do		8 h
+		wprowadzania ilości zebranego towaru po wprowadzeniu kodu ean,
+		ale tylko w niektórych przypadkach. Próby rozwiąznia problemu.
+
+ŁĄCZNA ILOŚĆ GODZIN W LISTOPADZIE: 152 h
+
