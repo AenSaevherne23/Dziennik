@@ -175,3 +175,18 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 
 ŁĄCZNA ILOŚĆ GODZIN W LISTOPADZIE: 152 h
 
+02.12.2024	Zdebugowano problem z dialogami po wprowadzeniu kodu EAN,	8 h
+		wprowadzono obejścia i rozpoczęto testy.
+	
+03.12.2024	Refraktoryzacja logiki dialogów, dodano animacje		8 h
+		przejść i usprawniono czytelność kodu.
+
+04.12.2024	Optymalizacja wyświetlania dialogów,  obsługa wyjątków i	8 h
+		weryfikacja danych wejściowych poprawiona.
+
+05.12.2024	Ulepszenie animacji, integracja z API poprawiona		8 h
+		w celu lepszej obsługi opóźnień.
+
+06.12.2024	Kontynuuacja pracy nad dialogami, ponieważ nadal		8 h
+		występują problemy z ich poprawnym działaniem. Przeprowadzenie
+		kolejnych testów i wprowadzenie poprawek.
