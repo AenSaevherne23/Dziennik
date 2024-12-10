@@ -190,3 +190,5 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 06.12.2024	Kontynuuacja pracy nad dialogami, ponieważ nadal		8 h
 		występują problemy z ich poprawnym działaniem. Przeprowadzenie
 		kolejnych testów i wprowadzenie poprawek.
+
+09.12.2024	Poprawienie działania aplikacji w trybie dowolnym.		8 h
