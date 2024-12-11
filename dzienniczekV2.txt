@@ -192,3 +192,13 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		kolejnych testów i wprowadzenie poprawek.
 
 09.12.2024	Poprawienie działania aplikacji w trybie dowolnym.		8 h
+
+10.12.2024	Poprawa funkcjonalności trybu dowolnego poprzez wyświetlanie 	8 h
+		wszystkich towarów. Wdrożenie zmiany w metodzie z „dodaj_ilosc”
+		na „aktualizuj_ilosc”. Przeprowadzono testy działania w różnych
+		scenariuszach.
+
+11.12.2024 	Kontynuacja pracy nad trybem dowolnym – usunięcie dialogu 	8 h
+		z pytaniem o przejście do konkretnego trybu. Poprawiono
+		wyświetlanie zamówień po przejściu z trybu ogólnego do
+		dowolnego. Refaktoryzacja kodu.
