@@ -201,4 +201,11 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 11.12.2024 	Kontynuacja pracy nad trybem dowolnym – usunięcie dialogu 	8 h
 		z pytaniem o przejście do konkretnego trybu. Poprawiono
 		wyświetlanie zamówień po przejściu z trybu ogólnego do
-		dowolnego. Refaktoryzacja kodu.
+		dowolnego.
+
+12.12.2024	Wprowadzenie sortowania listy zamówień względem ilości towarów,	8 h
+		jakie mają w sobie.
+
+13.12.2024	Poprawa wizualna wyświetlania towarów w trybie dowolnym, które	8 h
+		zostały dodane przez użytkownika w trybie ogólnym. W kolumnie
+		"Do zebrania" pokazuje się "-".
