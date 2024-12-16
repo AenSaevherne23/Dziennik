@@ -209,3 +209,7 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 13.12.2024	Poprawa wizualna wyświetlania towarów w trybie dowolnym, które	8 h
 		zostały dodane przez użytkownika w trybie ogólnym. W kolumnie
 		"Do zebrania" pokazuje się "-".
+
+16.12.2024 	Dodanie opcji szybkiego przewijania na górę listy towarów.	8 h
+		W trybie dowolnym lista towarów automatycznie przewija się do
+		towaru, którego ilość jest aktualizowana.
