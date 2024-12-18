@@ -213,3 +213,6 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 16.12.2024 	Dodanie opcji szybkiego przewijania na górę listy towarów.	8 h
 		W trybie dowolnym lista towarów automatycznie przewija się do
 		towaru, którego ilość jest aktualizowana.
+
+17.12.2024	Rozpoczęcie prac nad nowym projektem. Podjęcie próby utworzenia	8 h
+		projektu Laravela razem z Reactem.
