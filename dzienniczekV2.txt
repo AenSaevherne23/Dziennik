@@ -216,3 +216,10 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 
 17.12.2024	Rozpoczęcie prac nad nowym projektem. Podjęcie próby utworzenia	8 h
 		projektu Laravela razem z Reactem.
+
+18.12.2024	Stworzenie jednego projektu, który składa się zarówno z		8 h
+		Laravela jak i Reacta. Utworzenie struktury bazy danych.
+
+19.12.2024	Stworzenie prostego parsera dla plików z rozszerzeniem CSV oraz	8 h
+		panelu logowania.
+		
