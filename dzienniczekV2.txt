@@ -223,3 +223,5 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 19.12.2024	Stworzenie prostego parsera dla plików z rozszerzeniem CSV oraz	8 h
 		panelu logowania.
 		
+20.12.2024	Opracowanie dodawania danych plików CSV do tabeli w bazie	8 h
+		danych.
