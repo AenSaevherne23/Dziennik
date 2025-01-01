@@ -115,19 +115,19 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		trybie ogólnym uwzględniając sposób dodawania przez opakowanie
 		i kod produktu.
 
-12.11.2024	Praca nad wyglądem i funkcjonalnością dialogów. Poprawione	8 h
-		komunikaty błędów. Poprawne przechodzenie do zamówienia z trybu
-		ogólnego.
+12.11.2024	Praca nad wyglądem i funkcjonalnością dialogów. Poprawienie	8 h
+		komunikatów błędów. Przechodzenie do zamówienia z trybu
+		ogólnego działa poprawnie.
 
 13.11.2024	Poprawa automatyzacji dodawania w trybie zamówień. Naprawa	8 h
 		błędu nakładania się dialogów przy wielokrotnym skanowaniu.
 		Rozpoczęcie pracy nad nową aplikacją.
 
-14.11.2024	Zapoznanie się z bazową aplikacją do której będziemy twrozyć	8 h
-		aplikacje. Analiza problemu w praktyce.
+14.11.2024	Zapoznanie się z bazową aplikacją, do której będziemy tworzyć	8 h
+		aplikację. Analiza problemu w praktyce.
 
 15.11.2024	Zaprojektowanie wstępnego szablonu projektu. Praca nad		8 h
-		rozmeiszczeniem funkcjonalności.
+		rozmieszczeniem funkcjonalności.
 
 18.11.2024	Zapoznanie się z potrzebnymi bibliotekami WebSocket. Ustalenie	8 h
 		środowisk projektowych.
@@ -136,9 +136,9 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		mapowania funkcjonalności witryny.
 
 20.11.2024	Porzucenie nowego projektu na rzecz dalszej pracy i zmian	8 h
-		w poprzednim. Poprawa działania wyświetlania zamówienia po
-		przechodzeniu do innych trybów poprzez przeskanowanie kodu
-		opakowania.
+		w poprzednim zgodnie z zaleceniami szefa. Poprawa działania 
+		wyświetlania zamówienia po przechodzeniu do innych trybów 
+		poprzez przeskanowanie kodu opakowania.
 
 21.11.2024	Poprawa działania trybu ogólnego przy dużych zbiorach danych.	8 h
 		Dalsze poprawki w obsłudze wyjątków w API dotyczących błędnych
@@ -152,13 +152,11 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		kontrahenta oraz datę zamówienia. Praca nad odświeżaniem
 		widoku z poziomu aplikacji.
 
-26.11.2024	Poprawa akceptacji dialogów poprzez enter z klawiatury. 	8 h
-		Dodanie odświeżania widoku. Powiązanie tabel w API dla
-		zwiększenia integralności aplikacji.
-		z poziomu aplikacji.
+26.11.2024	Poprawa akceptacji dialogów poprzez klawisz "Enter" 		8 h
+		z klawiatury. Dodanie odświeżania widoku. 
 
 27.11.2024	Dodano opcję czyszczenia pola wyszukiwania za pomocą przycisku	8 h
-		„X” oraz wprowadzono przycisk odświeżania widoku.
+		"X" oraz wprowadzono przycisk odświeżania widoku.
 		Przeprowadzono również poprawki dotyczące aktualizacji ilości
 		zebranych sztuk, co zwiększa czytelność interfejsu.
 
@@ -170,7 +168,7 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		sztukowych.
 
 29.11.2024	Napotkanie problemu z niewyświetlaniem się dialogu do		8 h
-		wprowadzania ilości zebranego towaru po wprowadzeniu kodu ean,
+		wprowadzania ilości zebranego towaru po wprowadzeniu kodu EAN,
 		ale tylko w niektórych przypadkach. Próby rozwiąznia problemu.
 
 ŁĄCZNA ILOŚĆ GODZIN W LISTOPADZIE: 152 h
@@ -178,17 +176,17 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 02.12.2024	Zdebugowano problem z dialogami po wprowadzeniu kodu EAN,	8 h
 		wprowadzono obejścia i rozpoczęto testy.
 	
-03.12.2024	Refraktoryzacja logiki dialogów, dodano animacje		8 h
-		przejść i usprawniono czytelność kodu.
+03.12.2024	Refraktoryzacja logiki dialogów, dodano animacje przejść i 	8 h
+		usprawniono czytelność kodu.
 
-04.12.2024	Optymalizacja wyświetlania dialogów,  obsługa wyjątków i	8 h
-		weryfikacja danych wejściowych poprawiona.
+04.12.2024	Optymalizacja wyświetlania dialogów, obsługa wyjątków i		8 h
+		poprawa weryfikacji danych wejściowych.
 
-05.12.2024	Ulepszenie animacji, integracja z API poprawiona		8 h
+05.12.2024	Ulepszenie animacji, integracja z API została poprawiona	8 h
 		w celu lepszej obsługi opóźnień.
 
-06.12.2024	Kontynuuacja pracy nad dialogami, ponieważ nadal		8 h
-		występują problemy z ich poprawnym działaniem. Przeprowadzenie
+06.12.2024	Kontynuuacja pracy nad dialogami, ponieważ nadal występują 	8 h
+		problemy z ich poprawnym działaniem. Przeprowadzenie
 		kolejnych testów i wprowadzenie poprawek.
 
 09.12.2024	Poprawienie działania aplikacji w trybie dowolnym.		8 h
