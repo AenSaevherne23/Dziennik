@@ -193,16 +193,16 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 
 10.12.2024	Poprawa funkcjonalności trybu dowolnego poprzez wyświetlanie 	8 h
 		wszystkich towarów. Wdrożenie zmiany w metodzie z „dodaj_ilosc”
-		na „aktualizuj_ilosc”. Przeprowadzono testy działania w różnych
-		scenariuszach.
+		na „aktualizuj_ilosc”. Przeprowadzono testy działania aplikacji
+		w różnych scenariuszach.
 
 11.12.2024 	Kontynuacja pracy nad trybem dowolnym – usunięcie dialogu 	8 h
 		z pytaniem o przejście do konkretnego trybu. Poprawiono
 		wyświetlanie zamówień po przejściu z trybu ogólnego do
 		dowolnego.
 
-12.12.2024	Wprowadzenie sortowania listy zamówień względem ilości towarów,	8 h
-		jakie mają w sobie.
+12.12.2024	Wprowadzenie sortowania listy zamówień według liczby towarów, 	8 h
+		które zawierają.
 
 13.12.2024	Poprawa wizualna wyświetlania towarów w trybie dowolnym, które	8 h
 		zostały dodane przez użytkownika w trybie ogólnym. W kolumnie
@@ -221,5 +221,5 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 19.12.2024	Stworzenie prostego parsera dla plików z rozszerzeniem CSV oraz	8 h
 		panelu logowania.
 		
-20.12.2024	Opracowanie dodawania danych plików CSV do tabeli w bazie	8 h
+20.12.2024	Opracowanie dodawania danych z plików CSV do tabeli w bazie	8 h
 		danych.
