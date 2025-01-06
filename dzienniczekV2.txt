@@ -223,3 +223,5 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		
 20.12.2024	Opracowanie dodawania danych z plików CSV do tabeli w bazie	8 h
 		danych.
+		
+ŁĄCZNA ILOŚĆ GODZIN W GRUDNIU: 120 h
