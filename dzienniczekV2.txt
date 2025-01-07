@@ -225,3 +225,6 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 		danych.
 		
 ŁĄCZNA ILOŚĆ GODZIN W GRUDNIU: 120 h
+
+07.01.2025 	Ulepszenie routingu. Dodanie opcji, która zabezpiecza przed	8 h
+		ponownym dodaniem tego samego pliku do bazy.
