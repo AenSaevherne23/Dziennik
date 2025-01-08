@@ -228,3 +228,7 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 
 07.01.2025 	Ulepszenie routingu. Dodanie opcji, która zabezpiecza przed	8 h
 		ponownym dodaniem tego samego pliku do bazy.
+
+08.01.2025	Obsługa CRUD dla tabeli dzialy. Praca nad mechanizmem logowania	8 h
+		sesji i autentyfikacji. Dalsze prace nad pozostałymi trybami.
+		
