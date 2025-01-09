@@ -232,3 +232,8 @@ DZIEŃ		OPIS								ILOŚĆ GODZIN
 08.01.2025	Obsługa CRUD dla tabeli dzialy. Praca nad mechanizmem logowania	8 h
 		sesji i autentyfikacji. Dalsze prace nad pozostałymi trybami.
 		
+09.01.2025	Stworzenie logowania się do aplikacji. Naprawa parsowania	8 h
+		plików CSV w szczególnych przypadkach. Stworzenie skanowania
+		towarów, które zostały wykorzystane w sklepie.
+
+ŁĄCZNA ILOŚĆ GODZIN W STYCZNIU: 24 h
